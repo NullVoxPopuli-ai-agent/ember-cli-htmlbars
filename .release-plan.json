@@ -1,0 +1,18 @@
+{
+  "solution": {
+    "ember-cli-htmlbars": {
+      "impact": "patch",
+      "oldVersion": "7.0.0",
+      "newVersion": "7.0.1",
+      "tagName": "latest",
+      "constraints": [
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
+        }
+      ],
+      "pkgJSONPath": "./package.json"
+    }
+  },
+  "description": "## Release (2026-01-27)\n\n* ember-cli-htmlbars 7.0.1 (patch)\n\n#### :house: Internal\n* `ember-cli-htmlbars`\n  * [#790](https://github.com/ember-cli/ember-cli-htmlbars/pull/790) start using release-plan ([@mansona](https://github.com/mansona))\n  * [#789](https://github.com/ember-cli/ember-cli-htmlbars/pull/789) swap to pnpm ([@mansona](https://github.com/mansona))\n\n#### Committers: 1\n- Chris Manson ([@mansona](https://github.com/mansona))\n"
+}

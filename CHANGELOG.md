@@ -1,5 +1,17 @@
 # Changelog
 
+## Release (2026-01-27)
+
+* ember-cli-htmlbars 7.0.1 (patch)
+
+#### :house: Internal
+* `ember-cli-htmlbars`
+  * [#790](https://github.com/ember-cli/ember-cli-htmlbars/pull/790) start using release-plan ([@mansona](https://github.com/mansona))
+  * [#789](https://github.com/ember-cli/ember-cli-htmlbars/pull/789) swap to pnpm ([@mansona](https://github.com/mansona))
+
+#### Committers: 1
+- Chris Manson ([@mansona](https://github.com/mansona))
+
 
 
 
